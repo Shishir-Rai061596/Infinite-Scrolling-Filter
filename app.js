@@ -2,7 +2,7 @@ const LOADING = document.querySelector('.loader');
 const FILTER = document.querySelector('.filter');
 const POSTSCONTAINER = document.querySelector('.posts-container')
 
-let limit = 5;
+let limit = 6;
 let page = 1;
 
 
